@@ -45,7 +45,7 @@ I focus on solving real infrastructure problems: systems that must stay up, scal
 
 ## ⚙️ Tech Stack
 
-<table>
+table>
   <tr>
     <td><b>🔧 Backend</b></td>
     <td>C# · .NET · ASP.NET Core · REST APIs · SOAP · Windows Services</td>
@@ -121,9 +121,19 @@ I focus on solving real infrastructure problems: systems that must stay up, scal
 <a href="https://github.com/M3ssaf900">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M3ssaf900&theme=github_dark&utcOffset=3" width="32%"/>
 </a>
+
+<br/>
+
 <a href="https://github.com/M3ssaf900">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M3ssaf900&theme=github_dark" width="32%"/>
 </a>
+<a href="https://github.com/M3ssaf900">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M3ssaf900&theme=github_dark" width="32%"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3ssaf900&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=10" width="32%"/>
 
 <br/>
 
