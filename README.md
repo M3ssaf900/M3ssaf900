@@ -124,15 +124,6 @@ I focus on solving real infrastructure problems: systems that must stay up, scal
 
 <br/>
 
-<a href="https://github.com/M3ssaf900">
-  <img src="https://github-readme-stats-m3ssaf900s-projects.vercel.app/api/top-langs/?username=M3ssaf900&layout=pie&theme=github_dark&hide_border=true&langs_count=10" width="34%"/>
-</a>
-<a href="https://github.com/M3ssaf900">
-  <img src="https://github-readme-stats-m3ssaf900s-projects.vercel.app/api/top-langs/?username=M3ssaf900&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="34%"/>
-</a>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=M3ssaf900&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="50%"/>
 
 <br/>
