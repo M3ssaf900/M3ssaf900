@@ -10,8 +10,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:mohammadassaf552@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:mohammad.khaled.assaf@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammad-assaf-900" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -83,7 +83,7 @@
 
 > Open to collaboration, consulting, and architecture discussions.
 
-📧 Email: **mohammadassaf552@gmail.com**  
+📧 Email: **mohammad.khaled.assaf@outlook.com**  
 🔗 LinkedIn: https://linkedin.com/in/mohammad-assaf-900
 
 ---
