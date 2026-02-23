@@ -81,9 +81,21 @@ I focus on solving real infrastructure problems: systems that must stay up, scal
 
 ## 📊 GitHub Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-main-m3ssaf900s-projects.vercel.app/api?username=M3ssaf900&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-main-m3ssaf900s-projects.vercel.app/api?username=M3ssaf900&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats-git-main-m3ssaf900s-projects.vercel.app/api?username=M3ssaf900&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" width="56%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-main-m3ssaf900s-projects.vercel.app/api/top-langs/?username=M3ssaf900&layout=compact&hide_border=true&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-main-m3ssaf900s-projects.vercel.app/api/top-langs/?username=M3ssaf900&layout=compact&hide_border=true&theme=default"/>
+  <img align="center" src="https://github-readme-stats-git-main-m3ssaf900s-projects.vercel.app/api/top-langs/?username=M3ssaf900&layout=compact&hide_border=true&theme=default" width="43%"/>
+</picture>
+
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M3ssaf900&show_icons=true&hide_border=true&theme=default" width="56%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3ssaf900&layout=compact&hide_border=true&theme=default" width="43%"/>
+  <img src="https://streak-stats.demolab.com?user=M3ssaf900&hide_border=true&date_format=j%20M%5B%20Y%5D" width="56%"/>
 </p>
 
 ---
