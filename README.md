@@ -83,10 +83,19 @@ I focus on solving real infrastructure problems: systems that must stay up, scal
 
 <p align="center">
   <a href="https://github.com/M3ssaf900">
-    <img src="https://github-readme-stats.vercel.app/api?username=M3ssaf900&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" width="48%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M3ssaf900&theme=default" width="70%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/M3ssaf900">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M3ssaf900&theme=default" width="32%"/>
   </a>
   <a href="https://github.com/M3ssaf900">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3ssaf900&layout=compact&hide_border=true&theme=default" width="40%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M3ssaf900&theme=default" width="32%"/>
+  </a>
+  <a href="https://github.com/M3ssaf900">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M3ssaf900&theme=default" width="32%"/>
   </a>
 </p>
 
