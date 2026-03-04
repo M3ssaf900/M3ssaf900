@@ -55,7 +55,7 @@ I focus on solving real infrastructure problems: systems that must stay up, scal
   </tr>
   <tr>
     <td><b>🌐 Frontend</b></td>
-    <td>Next.js · JavaScript · HTML/CSS · Bootstrap</td>
+    <td>JavaScript · HTML/CSS · Bootstrap</td>
   </tr>
   <tr>
     <td><b>🚀 DevOps & Infra</b></td>
