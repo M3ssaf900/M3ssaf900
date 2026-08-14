@@ -306,8 +306,4 @@ Comprehensive backend systems with **GS1 EPCIS compliance** and **third-party tr
 &nbsp;&nbsp;·&nbsp;&nbsp;
 🔗 **[LinkedIn](https://linkedin.com/in/mohammad-assaf-900)**
 
----
-
-<sub>Built with clarity, not noise.</sub>
-
 </div>
